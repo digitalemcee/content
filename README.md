@@ -1,5 +1,3 @@
-# content
-Content - New and Old
 # 📚 Content Repository
 
 This repo is a central hub for my past, current, and future content.  
